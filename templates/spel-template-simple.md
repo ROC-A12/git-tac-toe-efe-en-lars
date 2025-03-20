@@ -1,6 +1,6 @@
 ### Spelers
-- Speler X = __
-- Speler O = __
+- Speler X = efe 
+- Speler O = Lars
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
@@ -10,4 +10,4 @@
 | C |🔲|🔲|🔲|
 
 ### Logboek
-1. ..
+1. Speler ❎ plaatst A1
