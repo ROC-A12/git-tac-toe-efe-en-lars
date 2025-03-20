@@ -5,7 +5,7 @@
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A |❎|🔲|🔲|
+| A |❎|🔲|❎|
 | B |❎|⏺️|🔲|
 | C |⏺️|🔲|🔲|
 
@@ -14,3 +14,4 @@
 2. speler ⏺️ plaatst B2
 3. Speler ❎ plaatst B1
 4. Speler ⏺️ plaatst C1
+5. Speler ❎ plaatst A3
