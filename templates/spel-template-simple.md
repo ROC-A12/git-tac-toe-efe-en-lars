@@ -6,9 +6,10 @@
 | - | 1 | 2 | 3 |
 |---|---|---|---|
 | A |❎|🔲|🔲|
-| B |🔲|⏺️|🔲|
+| B |❎|⏺️|🔲|
 | C |🔲|🔲|🔲|
 
 ### Logboek
 1. Speler ❎ plaatst A1
 2. speler ⏺️ plaatst B2
+3. Speler ❎ plaatst B1
