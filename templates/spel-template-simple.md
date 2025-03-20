@@ -7,7 +7,7 @@
 |---|---|---|---|
 | A |❎|⏺️|❎|
 | B |❎|⏺️|⏺️|
-| C |⏺️|❎|🔲|
+| C |⏺️|❎|❎|
 
 ### Logboek
 1. Speler ❎ plaatst A1
@@ -18,3 +18,4 @@
 6. Speler ⏺️ plaatst A2
 7. Speler ❎ plaatst C2
 8. Speler ⏺️ plaatst B3
+9. Speler ❎ plaatst C3
